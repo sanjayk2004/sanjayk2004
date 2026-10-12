@@ -98,12 +98,23 @@ The snake images are published to the `output` branch by the [contribution snake
 
 ---
 
-## Contact
 
-- **GitHub:** [github.com/sanjayk2004](https://github.com/sanjayk2004)
-- **LinkedIn: linkedin.com/in/sanju-krishnan  
+## 🤝 Let's Connect
 
 <div align="center">
-  <br />
-  <strong>Curious mind. Practical code. Ideas in motion.</strong>
+
+<a href="https://github.com/sanjayk2004">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sanju-krishnan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+⭐ Feel free to explore my projects and connect with me!
+
+### 💫 Build • Experiment • Innovate
+
 </div>
+
