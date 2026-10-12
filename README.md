@@ -60,8 +60,6 @@ An accessibility-focused project for sign language recognition, text and audio c
 
 **Focus:** Computer vision · OCR · Text/audio processing · Braille
 
-**Repository:** *Link not provided yet.*
-
 ### [Music Recommendation System](https://github.com/sanjayk2004/music-recommendation-system-using-streamlit)
 
 A music discovery and recommendation application with a full-stack web interface and music API integration.
@@ -103,7 +101,7 @@ The snake images are published to the `output` branch by the [contribution snake
 ## Contact
 
 - **GitHub:** [github.com/sanjayk2004](https://github.com/sanjayk2004)
-- **LinkedIn:** *Add your LinkedIn profile URL here.*
+- **LinkedIn: linkedin.com/in/sanju-krishnan  
 
 <div align="center">
   <br />
